@@ -34,7 +34,7 @@
 3. 享受对弈！
 
 ### 编译源码（可选）
-- 使用 Visual Studio 2019/2022 打开 `.sln` 文件 
+- 使用 Visual Studio 2019/2022 打开 `.slnx` 文件 
 - 确保已安装 NuGet 包 `System.Text.Json` 
 - 生成 → 重新生成解决方案 
 
